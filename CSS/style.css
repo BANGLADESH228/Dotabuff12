@@ -3,6 +3,10 @@ html {
   min-height: 100%;
 }
 
+a {
+  margin-bottom: 0.2rem;
+}
+
 header {
   background-size: cover;
   background-attachment: fixed;
